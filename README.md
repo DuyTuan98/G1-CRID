@@ -1,2 +1,4 @@
-# PHPG12019
-Dự án PHP dành cho nhóm 1 năm học 2019
+# PHPG12019 - G1_CRID learninghostory
+Tên: Võ Duy Tuấn
+Mã sv: 16T1021194
+
